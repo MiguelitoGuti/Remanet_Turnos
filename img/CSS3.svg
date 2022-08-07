@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>CSS3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100.001238%" x2="50%" y2="0.00123760845%" id="linearGradient-1">
+            <stop stop-color="#D1D3D4" stop-opacity="0" offset="38.7%"></stop>
+            <stop stop-color="#D1D3D4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9990423%" y1="100.001191%" x2="49.9990423%" y2="0.00119063211%" id="linearGradient-2">
+            <stop stop-color="#D1D3D4" stop-opacity="0" offset="38.7%"></stop>
+            <stop stop-color="#D1D3D4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.85818348e-14%" y1="50.0006558%" x2="99.9994847%" y2="50.0006558%" id="linearGradient-3">
+            <stop stop-color="#E8E7E5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.34896956e-14%" y1="50%" x2="99.9995254%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#E8E7E5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_Home" transform="translate(-560.000000, -5072.000000)">
+            <g id="CSS3" transform="translate(560.000000, 5072.000000)">
+                <rect id="Rectangle" stroke="#000000" x="0.5" y="0.5" width="87" height="87"></rect>
+                <g id="css3" transform="translate(4.000000, 4.000000)">
+                    <polygon id="Path" points="0 0 79 0 79 79 0 79"></polygon>
+                    <polygon id="Path" fill="#2062AF" fill-rule="nonzero" points="59.4058755 68.6522411 39.4998539 74 19.5935399 68.6522411 15 19 64 19"></polygon>
+                    <polygon id="Path" fill="#3C9CD7" fill-rule="nonzero" points="39 23 39 69.9876799 39.0453008 70 55.257832 65.6465918 59 23"></polygon>
+                    <path d="M28.2324572,11.0942824 L28.2324572,8.18425755 L32.5424486,8.18425755 L32.5424486,5 L25,5 L25,14 L32.5424486,14 L32.5424486,11.0942824 L28.2324572,11.0942824 Z M40.2956526,8.18425755 L43.3089008,8.18425755 L43.3089008,5 L35.7657235,5 L35.7657235,8.18425755 C36.7749007,9.17838683 37.3012062,9.65420203 38.7607529,11.0919852 C37.9075288,11.0919852 35.7657235,11.0950003 35.7657235,11.0948567 L35.7657235,14 L43.3089008,14 L43.3089008,11.0942824 L40.2956526,8.18425755 Z M50.9867518,8.18425755 L53.9998542,8.18425755 L53.9998542,5 L46.4563854,5 L46.4563854,8.18425755 C47.4655626,9.17838683 47.9921596,9.65420203 49.4517063,11.0919852 C48.5987737,11.0919852 46.4563854,11.0950003 46.4563854,11.0948567 L46.4563854,14 L54,14 L54,11.0942824 L50.9867518,8.18425755 L50.9867518,8.18425755 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="39.4850232 35.2982839 25 41.1783235 25.4803578 47 39.4850232 41.1635517 54.3823547 34.9553467 55 29"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="25 41.0299254 25.4642733 47 39 41.014777 39 35 25 41.0299254"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="55 29 40 35.213528 40 41 54.4028557 34.8751979"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="25 41 25.4666065 46.8001889 46.3333265 46.8667051 45.8665756 54.6001941 39.0002164 56.5333499 32.3996238 54.866692 31.9996754 50.0665556 25.866555 50.0665556 26.6665962 59.3333814 39.0668745 63 51.3999176 59.3998977 53 41 25 41"></polygon>
+                    <path d="M39,41 L25,41 L25.4642733,46.8001508 L39,46.8435809 L39,41 Z M39,56.5147795 L38.9336547,56.5333924 L32.364899,54.8667454 L31.9668274,50.0666404 L25.8626321,50.0666404 L26.6587753,59.3334055 L39,63 L39,56.5147795 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.05"></path>
+                    <polygon id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero" points="24 29 55 29 54.3883631 35 24.747736 35 24 29"></polygon>
+                    <polygon id="Path" fill="#000000" fill-rule="nonzero" opacity="0.05" points="40 29 24 29 24.7651454 35 40 35 40 29"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

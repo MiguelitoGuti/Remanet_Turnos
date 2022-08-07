@@ -1,0 +1,20 @@
+[
+    {
+        "ident": 0,
+        "nombre": "Burgos Angel",
+        "matricula": 8080
+    },
+    
+    {
+        "ident": 1,
+        "nombre": "Pulido Ruben",
+        "matricula": 8082
+    },
+    
+    {
+        "ident": 2,
+        "nombre": "Cruz Mario",
+        "matricula": 8083
+    }
+
+]

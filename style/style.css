@@ -1,0 +1,316 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.parrafos{
+    padding-bottom: 10px;
+    color:#0a5370;
+    font-size: 36px;
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+}
+
+.titulosMedicos{
+    color:rgb(196, 190, 190);
+    font-size: 28px;
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.alineacionCentro{
+    text-align: center;
+}
+
+.fondoPrincipal{
+    background: rgb(191,224,221);
+    background: radial-gradient(circle, rgba(191,224,221,1) 31%, rgba(85,157,162,1) 100%, rgba(66,145,148,1) 100%);
+   
+}
+
+.espacioInferior{
+    padding-bottom: 2px;
+}
+
+.espacioSuperior{
+    padding-top: 20px;
+}
+
+.alineacionIzq{
+    text-align:left;
+}
+
+.alineacionDer{
+    text-align:right;
+}
+
+.tituloPrincipal{
+    color:#0a5370;
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 48px;
+}
+
+
+/*Botones*/
+
+.botonesOpciones{
+    color: white;
+    border-style: solid;
+    border-color: #0F91C3;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #0F91C3;
+    border-radius: 10px;
+}
+
+.botonesTurnos{
+    color: #0F91C3;
+    border-style: solid;
+    border-color: #0F91C3;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #000000;
+    border-radius: 10px;
+    transition: 1s;
+    margin-right: 5px;
+    width: 470px;
+    text-align: left;
+    height: 60px;
+}
+
+.botonesTurnosAnulado{
+    color: #e00e0e;
+    border-style: solid;
+    border-color: #e00e0e;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #000000;
+    border-radius: 10px;
+    transition: 1s;
+    margin-right: 5px;
+    width: 545px;
+    text-align: left;
+    height: 60px;
+}
+
+.botonesTurnosOcupado{
+    color: #00b86c;
+    border-style: solid;
+    border-color: #00b86c;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #000000;
+    border-radius: 10px;
+    transition: 1s;
+    margin-right: 5px;
+    width: 545px;
+    text-align: left;
+    height: 60px;
+    font-size: 15px;
+}
+
+.botonesAnularTurnos{
+    color: #e00e0e;
+    border-style: solid;
+    border-color: #e00e0e;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #000000;
+    border-radius: 10px;
+    width: 65px;
+    font-size: 13px;
+    height: 60px;
+}
+
+.botonesAnularTurnosABM{
+    color: #e00e0e;
+    border-style: solid;
+    border-color: #e00e0e;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #000000;
+    border-radius: 10px;
+    width: 70px;
+    font-size: 13px;
+    height: 30px;
+}
+
+.botonesQuitarPaciente{
+    color: #808080;
+    border-style: solid;
+    border-color: #808080;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #000000;
+    border-radius: 10px;
+    width: 70px;
+    font-size: 11px;
+    height: 60px;
+}
+
+.botonesQuitarPacienteABM{
+    color: #808080;
+    border-style: solid;
+    border-color: #808080;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #000000;
+    border-radius: 10px;
+    width: 80px;
+    font-size: 11px;
+    height: 30px;
+}
+
+.botonOculto{
+    display: none;
+}
+
+h4{
+    color:rgb(196, 190, 190);
+    font-size: 22px;
+}
+
+h2{
+    color:rgb(236, 229, 229);
+    font-size: 34px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.formatoLabel{
+    color:#0a5370;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.busquedaTam{
+    width: 200px;
+    display: inline;
+}
+
+.busquedaTam2{
+    width: 100px;
+    display: inline;
+}
+
+.linea{
+    border-top: 1px;
+    border-style: solid;
+    border-color: #0F91C3;
+    margin: 10px;
+    margin-bottom: 10px;
+}
+
+
+.espacioLogo{
+    padding: 2px;
+    width: 110px;
+    height: 51px;
+}
+
+.colorMenu{
+    background-color: black !important;
+}
+
+.alineacionMenu{
+    margin: 0px 25px 0px 25px;
+}
+
+header{
+    position: sticky;
+    top: 0px;
+    background-color:whitesmoke;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.nav-link{
+    color:white !important;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color:#0F91C3 !important;
+}
+
+.espacio{
+    margin-right: 15px;
+}
+
+/*Calendario*/
+
+ul {list-style-type: none;}
+
+.month {
+  padding: 5px 20px;
+  width: 100%;
+  background: #1abc9c;
+  text-align: center;
+}
+
+.weekdays {
+  margin: 0px;
+  padding-left: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #ddd;
+  text-align: center
+}
+
+.weekdays li {
+  display: inline-block;
+  width: 13.2%;
+  color: #666;
+  text-align: center;
+  font-size: 14px;
+}
+
+.days {
+  background: #eee;
+  padding-left: 0px;
+}
+
+.formatodia {
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #777;
+  border-style: none;
+}
+
+.colorBoton{
+    background-color: #0a5370;
+}
+

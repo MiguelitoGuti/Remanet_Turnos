@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Angular</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_Home" transform="translate(-200.000000, -5072.000000)">
+            <g id="Angular" transform="translate(200.000000, 5072.000000)">
+                <rect id="Rectangle" stroke="#000000" x="0.5" y="0.5" width="87" height="87"></rect>
+                <polygon id="Path" fill="#E23237" points="14 22.6204906 43.6097934 12 74 22.4357864 69.0879878 61.8239538 43.6097934 76 18.544759 62.008658"></polygon>
+                <polygon id="Path" fill="#B52E31" points="74 22.4357864 44 12 44 76 69.1510574 61.8239538"></polygon>
+                <path d="M43.1169306,20 L43.1169306,20 L25,60.9084821 L31.7600487,60.7712054 L35.410475,51.5279018 L43.1169306,51.5279018 L51.589525,51.5279018 L55.5554202,60.8627232 L62,61 L43.1169306,20 L43.1169306,20 Z M43.1619976,33.1328125 L49.2911084,46.1283482 L43.4323995,46.1283482 L43.1169306,46.1283482 L37.7990256,46.1283482 L43.1619976,33.1328125 L43.1619976,33.1328125 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
